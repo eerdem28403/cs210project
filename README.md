@@ -1,5 +1,7 @@
 # CS210 Project - Spotify Top Songs Analysis by Berk Efe Erdem #28403
 
+Note: My project report is in ipynb format. It has the parts that I will explain briefly right below:
+
 Introduction and Motivation
 
 For the Final Project of CS210, Introduction to Data Science course at Sabancı University, I decided to use my Spotify Top Songs Playlists in years 2020, 2021, 2022 and 2023; to have an insight of my listening habits. I aimed to see my statistics about different metrics, different genres and different artists in recent years, so I decided to use not only the last year's data but a 4 year worth of data consisting top 100 songs for each year.
